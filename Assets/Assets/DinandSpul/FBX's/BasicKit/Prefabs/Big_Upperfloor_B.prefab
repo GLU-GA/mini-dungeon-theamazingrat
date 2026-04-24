@@ -1,5 +1,74 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1981536697541229780
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8510027295652094766}
+  - component: {fileID: 2849574172923842149}
+  m_Layer: 0
+  m_Name: Local Volumetric Fog (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8510027295652094766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1981536697541229780}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454335, y: -0.70710576, z: 0.00000001545429, w: 0.7071079}
+  m_LocalPosition: {x: -1.92, y: 3.66, z: -2.5}
+  m_LocalScale: {x: 4.66489, y: 9.2626295, z: 4.7304697}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1213328356841267492}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2849574172923842149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1981536697541229780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.HighDefinition.Runtime::UnityEngine.Rendering.HighDefinition.LocalVolumetricFog
+  m_Version: 3
+  parameters:
+    albedo: {r: 0.5849056, g: 0, b: 0, a: 1}
+    meanFreePath: 57.8
+    blendingMode: 0
+    priority: 3
+    anisotropy: 0
+    volumeMask: {fileID: 0}
+    textureScrollingSpeed: {x: 0, y: 0, z: 0}
+    textureTiling: {x: 1, y: 1, z: 1}
+    positiveFade: {x: 0, y: 0, z: 0}
+    negativeFade: {x: 0, y: 0, z: 0}
+    m_EditorUniformFade: 0
+    m_EditorPositiveFade: {x: 0.1, y: 0.1, z: 0.1}
+    m_EditorNegativeFade: {x: 0.1, y: 0.1, z: 0.1}
+    m_EditorAdvancedFade: 0
+    scaleMode: 1
+    size: {x: 1, y: 1, z: 1}
+    invertFade: 1
+    distanceFadeStart: 1
+    distanceFadeEnd: 1
+    textureOffset: {x: 0, y: 0, z: 0}
+    falloffMode: 1
+    maskMode: 0
+    materialMask: {fileID: 0}
 --- !u!1001 &1683258616940054223
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -54,12 +123,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: bee296ee8df91b04ba75d7acb94fe62a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8510027295652094766}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: bee296ee8df91b04ba75d7acb94fe62a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 878659427785848629}
   m_SourcePrefab: {fileID: 100100000, guid: bee296ee8df91b04ba75d7acb94fe62a, type: 3}
+--- !u!4 &1213328356841267492 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: bee296ee8df91b04ba75d7acb94fe62a, type: 3}
+  m_PrefabInstance: {fileID: 1683258616940054223}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1989829188963466142 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bee296ee8df91b04ba75d7acb94fe62a, type: 3}
