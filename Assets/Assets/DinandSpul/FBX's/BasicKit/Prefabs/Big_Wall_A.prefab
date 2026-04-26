@@ -1,74 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &3341940780553164222
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 8233330220120078308}
-  - component: {fileID: 4133366679169529640}
-  m_Layer: 0
-  m_Name: Local Volumetric Fog (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &8233330220120078308
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3341940780553164222}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0.000000015454335, y: -0.70710576, z: 0.00000001545429, w: 0.7071079}
-  m_LocalPosition: {x: -2.25, y: 3.66, z: -1.72}
-  m_LocalScale: {x: 7.0150614, y: 13.929143, z: 7.1136804}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 3715788067260500120}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4133366679169529640
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3341940780553164222}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.RenderPipelines.HighDefinition.Runtime::UnityEngine.Rendering.HighDefinition.LocalVolumetricFog
-  m_Version: 3
-  parameters:
-    albedo: {r: 0.5849056, g: 0, b: 0, a: 1}
-    meanFreePath: 57.8
-    blendingMode: 0
-    priority: 3
-    anisotropy: 0
-    volumeMask: {fileID: 0}
-    textureScrollingSpeed: {x: 0, y: 0, z: 0}
-    textureTiling: {x: 1, y: 1, z: 1}
-    positiveFade: {x: 0, y: 0, z: 0}
-    negativeFade: {x: 0, y: 0, z: 0}
-    m_EditorUniformFade: 0
-    m_EditorPositiveFade: {x: 0.1, y: 0.1, z: 0.1}
-    m_EditorNegativeFade: {x: 0.1, y: 0.1, z: 0.1}
-    m_EditorAdvancedFade: 0
-    scaleMode: 1
-    size: {x: 1, y: 1, z: 1}
-    invertFade: 1
-    distanceFadeStart: 1
-    distanceFadeEnd: 1
-    textureOffset: {x: 0, y: 0, z: 0}
-    falloffMode: 1
-    maskMode: 0
-    materialMask: {fileID: 0}
 --- !u!1001 &3754762880014086003
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -117,26 +48,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ff77ee1242fc99c49b6f64ab090e6373, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f2db54b517b25934988dbfe4dcab1c04, type: 2}
+    - target: {fileID: -7511558181221131132, guid: ff77ee1242fc99c49b6f64ab090e6373, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b72245c8d3110ca4193a1b0f6e284216, type: 2}
     - target: {fileID: 919132149155446097, guid: ff77ee1242fc99c49b6f64ab090e6373, type: 3}
       propertyPath: m_Name
       value: Big_Wall_A
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: ff77ee1242fc99c49b6f64ab090e6373, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 8233330220120078308}
+    m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: ff77ee1242fc99c49b6f64ab090e6373, type: 3}
       insertIndex: -1
       addedObject: {fileID: 4683462380904034976}
   m_SourcePrefab: {fileID: 100100000, guid: ff77ee1242fc99c49b6f64ab090e6373, type: 3}
---- !u!4 &3715788067260500120 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ff77ee1242fc99c49b6f64ab090e6373, type: 3}
-  m_PrefabInstance: {fileID: 3754762880014086003}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &4096851947884302882 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: ff77ee1242fc99c49b6f64ab090e6373, type: 3}
