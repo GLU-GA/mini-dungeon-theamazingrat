@@ -285,11 +285,11 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: d1ca1aac1bc7af948a26e3c3003729e0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: b72245c8d3110ca4193a1b0f6e284216, type: 2}
+      objectReference: {fileID: 2100000, guid: df1664697b45454449272e450950b76f, type: 2}
     - target: {fileID: -7511558181221131132, guid: d1ca1aac1bc7af948a26e3c3003729e0, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: f2db54b517b25934988dbfe4dcab1c04, type: 2}
+      objectReference: {fileID: 2100000, guid: 4ae9e3a79228d684ab92845f933c9104, type: 2}
     - target: {fileID: 919132149155446097, guid: d1ca1aac1bc7af948a26e3c3003729e0, type: 3}
       propertyPath: m_Name
       value: Small_Wall_B

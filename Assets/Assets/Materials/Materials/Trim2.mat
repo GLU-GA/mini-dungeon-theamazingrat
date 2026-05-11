@@ -38,8 +38,8 @@ Material:
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3040
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: 3050
   stringTagMap:
     RenderType: Transparent
   disabledShaderPasses:
@@ -179,7 +179,7 @@ Material:
     - _DisplacementLockTilingScale: 1
     - _DisplacementMode: 0
     - _DoubleSidedEnable: 1
-    - _DoubleSidedGIMode: 2
+    - _DoubleSidedGIMode: 1
     - _DoubleSidedNormalMode: 1
     - _DstBlend: 1
     - _DstBlend2: 10
@@ -251,7 +251,7 @@ Material:
     - _TransparentCullMode: 2
     - _TransparentDepthPostpassEnable: 0
     - _TransparentDepthPrepassEnable: 0
-    - _TransparentSortPriority: 40
+    - _TransparentSortPriority: 50
     - _TransparentWritingMotionVec: 0
     - _TransparentZWrite: 0
     - _UVBase: 0
