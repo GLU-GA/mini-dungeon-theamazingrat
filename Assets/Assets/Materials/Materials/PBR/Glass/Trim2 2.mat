@@ -161,8 +161,8 @@ Material:
     - _AlphaCutoffPrepass: 0.5
     - _AlphaCutoffShadow: 0.5
     - _AlphaDstBlend: 1
-    - _AlphaRemapMax: 1
-    - _AlphaRemapMin: 0.68211913
+    - _AlphaRemapMax: 0.6445991
+    - _AlphaRemapMin: 0.44947731
     - _AlphaSrcBlend: 1
     - _Anisotropy: 0
     - _BlendMode: 1
