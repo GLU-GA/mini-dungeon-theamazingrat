@@ -33,8 +33,8 @@ MonoBehaviour:
       squaredDistWeighting: 1
     virtualOffsetSettings:
       useVirtualOffset: 1
-      validityThreshold: 0.25
-      outOfGeoOffset: 0.01
+      validityThreshold: 0.20899999
+      outOfGeoOffset: 0.067
       searchMultiplier: 0.2
       rayOriginBias: -0.001
       collisionMask:
@@ -115,7 +115,7 @@ MonoBehaviour:
   version: 2
   freezePlacement: 0
   probeOffset: {x: 0, y: 0, z: 0}
-  simplificationLevels: 3
+  simplificationLevels: 2
   minDistanceBetweenProbes: 1
   renderersLayerMask:
     serializedVersion: 2

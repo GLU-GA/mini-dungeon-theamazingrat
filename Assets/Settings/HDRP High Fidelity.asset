@@ -230,11 +230,11 @@ MonoBehaviour:
     supportLightLayers: 1
     renderingLayerMaskBuffer: 1
     supportWater: 1
-    waterSimulationResolution: 128
+    waterSimulationResolution: 64
     supportWaterExclusion: 1
     supportWaterHorizontalDeformation: 0
     supportWaterDecals: 1
-    waterDecalAtlasSize: 1024
+    waterDecalAtlasSize: 512
     maximumWaterDecalCount: 48
     waterScriptInteractionsMode: 0
     waterFullCPUSimulation: 0
@@ -301,7 +301,7 @@ MonoBehaviour:
       reflectionProbeTexLastValidCubeMip: 3
       reflectionProbeTexLastValidPlanarMip: 0
       reflectionProbeDecreaseResToFit: 1
-      skyReflectionSize: 1024
+      skyReflectionSize: 512
       skyLightingOverrideLayerMask:
         serializedVersion: 2
         m_Bits: 0
@@ -314,11 +314,11 @@ MonoBehaviour:
       maxDecalsOnScreen: 512
       maxLightsPerClusterCell: 24
       maxLocalVolumetricFogSize: 32
-      maxLocalVolumetricFogOnScreen: 338
+      maxLocalVolumetricFogOnScreen: 105
     hdShadowInitParams:
       maxShadowRequests: 512
       directionalShadowsDepthBits: 16
-      punctualShadowFilteringQuality: 2
+      punctualShadowFilteringQuality: 1
       directionalShadowFilteringQuality: 2
       areaShadowFilteringQuality: 0
       punctualLightShadowAtlas:
