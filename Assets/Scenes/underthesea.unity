@@ -413,6 +413,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2779137539931254287, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3828824278002982598, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -420,6 +424,30 @@ PrefabInstance:
     - target: {fileID: 3835466874808295630, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 5287767707095184781, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -444,6 +472,30 @@ PrefabInstance:
     - target: {fileID: 6957495413151138422, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -483,6 +535,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021010008150848774, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8434734178536759935, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
@@ -1139,6 +1195,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2779137539931254287, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3828824278002982598, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -1146,6 +1206,30 @@ PrefabInstance:
     - target: {fileID: 3835466874808295630, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 5287767707095184781, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1170,6 +1254,30 @@ PrefabInstance:
     - target: {fileID: 6957495413151138422, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1209,6 +1317,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021010008150848774, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8434734178536759935, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
@@ -2007,6 +2119,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -31
@@ -2362,6 +2502,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2779137539931254287, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3828824278002982598, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -2369,6 +2513,30 @@ PrefabInstance:
     - target: {fileID: 3835466874808295630, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 5287767707095184781, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2393,6 +2561,30 @@ PrefabInstance:
     - target: {fileID: 6957495413151138422, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2432,6 +2624,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021010008150848774, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8434734178536759935, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
@@ -2659,6 +2855,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.z
       value: 2.4e-44
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -57
@@ -2714,6 +2934,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2790,6 +3014,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -35
@@ -3459,6 +3711,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.y
       value: 1.1754945e-38
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -77
@@ -3515,6 +3791,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -3549,6 +3829,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -27
@@ -4381,6 +4689,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -65
@@ -4538,6 +4874,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2779137539931254287, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3828824278002982598, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -4545,6 +4885,30 @@ PrefabInstance:
     - target: {fileID: 3835466874808295630, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 5287767707095184781, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4569,6 +4933,30 @@ PrefabInstance:
     - target: {fileID: 6957495413151138422, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4608,6 +4996,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021010008150848774, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8970025120356894860, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
@@ -4758,6 +5150,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.z
       value: 5.4213887e-11
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -35
@@ -4814,6 +5230,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -4855,6 +5275,30 @@ PrefabInstance:
     - target: {fileID: 1863106040811713768, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_BoundingSphereOverride.y
       value: 2.723e-41
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4911,6 +5355,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5666,6 +6114,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2779137539931254287, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3828824278002982598, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -5673,6 +6125,30 @@ PrefabInstance:
     - target: {fileID: 3835466874808295630, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 5287767707095184781, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5697,6 +6173,30 @@ PrefabInstance:
     - target: {fileID: 6957495413151138422, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5736,6 +6236,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021010008150848774, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8434734178536759935, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
@@ -6281,6 +6785,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -37
@@ -6728,6 +7260,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -73
@@ -7769,6 +8329,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2779137539931254287, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3828824278002982598, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -7776,6 +8340,30 @@ PrefabInstance:
     - target: {fileID: 3835466874808295630, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 5287767707095184781, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7800,6 +8388,30 @@ PrefabInstance:
     - target: {fileID: 6957495413151138422, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7839,6 +8451,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021010008150848774, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8434734178536759935, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
@@ -8851,6 +9467,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2779137539931254287, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3828824278002982598, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -8858,6 +9478,30 @@ PrefabInstance:
     - target: {fileID: 3835466874808295630, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 5287767707095184781, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8882,6 +9526,30 @@ PrefabInstance:
     - target: {fileID: 6957495413151138422, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8921,6 +9589,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021010008150848774, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8434734178536759935, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
@@ -9324,6 +9996,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.z
       value: 5.4213887e-11
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -77
@@ -9379,6 +10075,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9492,6 +10192,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -61
@@ -10773,6 +11501,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -61
@@ -11180,6 +11936,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.z
       value: 4.591e-41
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -41
@@ -11235,6 +12015,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11863,6 +12647,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -37
@@ -12035,6 +12847,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -77
@@ -13247,6 +14087,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.z
       value: 2.3509887e-38
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -57
@@ -13303,6 +14167,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -13337,6 +14205,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -57
@@ -13855,6 +14751,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -27
@@ -13985,6 +14909,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2779137539931254287, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3828824278002982598, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -13992,6 +14920,30 @@ PrefabInstance:
     - target: {fileID: 3835466874808295630, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 5287767707095184781, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -14016,6 +14968,30 @@ PrefabInstance:
     - target: {fileID: 6957495413151138422, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14055,6 +15031,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021010008150848774, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8434734178536759935, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
@@ -14658,6 +15638,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.z
       value: 2.8421708e-14
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -41
@@ -14713,6 +15717,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15968,6 +16976,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.y
       value: 3.59e-43
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -61
@@ -16023,6 +17055,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -17050,6 +18086,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.z
       value: 4.5e-44
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -65
@@ -17105,6 +18165,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -17164,6 +18228,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2779137539931254287, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3828824278002982598, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -17171,6 +18239,30 @@ PrefabInstance:
     - target: {fileID: 3835466874808295630, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 5287767707095184781, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -17195,6 +18287,30 @@ PrefabInstance:
     - target: {fileID: 6957495413151138422, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17234,6 +18350,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021010008150848774, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8434734178536759935, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
@@ -17414,6 +18534,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.y
       value: 9.1835e-41
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -65
@@ -17469,6 +18613,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -18920,6 +20068,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -37
@@ -19084,6 +20260,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.z
       value: 6.4285e-40
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -61
@@ -19139,6 +20339,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -19205,6 +20409,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -41
@@ -19568,6 +20800,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2779137539931254287, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3828824278002982598, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -19575,6 +20811,30 @@ PrefabInstance:
     - target: {fileID: 3835466874808295630, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 5287767707095184781, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -19599,6 +20859,30 @@ PrefabInstance:
     - target: {fileID: 6957495413151138422, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19638,6 +20922,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021010008150848774, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8434734178536759935, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
@@ -19753,6 +21041,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -33
@@ -20838,6 +22154,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.z
       value: 0.0000026705793
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -23
@@ -20893,6 +22233,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21637,6 +22981,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -23
@@ -22166,6 +23538,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -29
@@ -22450,6 +23850,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.y
       value: 4.9e-44
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -29
@@ -22505,6 +23929,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22700,6 +24128,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2779137539931254287, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3828824278002982598, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -22707,6 +24139,30 @@ PrefabInstance:
     - target: {fileID: 3835466874808295630, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 5287767707095184781, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22731,6 +24187,30 @@ PrefabInstance:
     - target: {fileID: 6957495413151138422, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22770,6 +24250,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021010008150848774, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8434734178536759935, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
@@ -23037,6 +24521,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -69
@@ -23143,6 +24655,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -23
@@ -23523,6 +25063,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.z
       value: 3.3889632e-20
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -23
@@ -23578,6 +25142,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -24491,7 +26059,7 @@ MonoBehaviour:
   m_ShadowVariant: 0
   m_ShadowPrecision: 0
   useOldInspector: 0
-  useVolumetric: 1
+  useVolumetric: 0
   featuresFoldout: 1
   m_AreaLightEmissiveMeshShadowCastingMode: 0
   m_AreaLightEmissiveMeshMotionVectorGenerationMode: 0
@@ -24506,9 +26074,9 @@ Light:
   m_Enabled: 1
   serializedVersion: 12
   m_Type: 3
-  m_Color: {r: 0.018689921, g: 0.21471782, b: 0.26415092, a: 1}
-  m_Intensity: 6162.8994
-  m_Range: 68.9
+  m_Color: {r: 0, g: 0.18259275, b: 0.2264151, a: 1}
+  m_Intensity: 8017.253
+  m_Range: 2.66
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize2D: {x: 0.5, y: 0.5}
@@ -24552,7 +26120,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 1
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 70.7244}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 4.484404}
   m_UseBoundingSphereOverride: 1
   m_UseViewFrustumForShadowCasterCull: 1
   m_ForceVisible: 0
@@ -25004,6 +26572,30 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.z
       value: 7.9639e-41
       objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265044789016986241, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
     - target: {fileID: 3950729767329285908, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -29
@@ -25059,6 +26651,10 @@ PrefabInstance:
     - target: {fileID: 4438331956719590830, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645331093714058584, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
+      propertyPath: useVolumetric
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5309973409545572646, guid: c9ce91c4b7272fc479803fa26593ee4c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -25180,6 +26776,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2779137539931254287, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3828824278002982598, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -25187,6 +26787,30 @@ PrefabInstance:
     - target: {fileID: 3835466874808295630, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5090672145411562378, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 5287767707095184781, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -25211,6 +26835,30 @@ PrefabInstance:
     - target: {fileID: 6957495413151138422, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593370446823474195, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25250,6 +26898,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7765944754847144140, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021010008150848774, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: useVolumetric
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8434734178536759935, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
@@ -25442,6 +27094,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -29
@@ -25540,6 +27220,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -77
@@ -26000,6 +27708,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -57
@@ -26738,6 +28474,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -61
@@ -26840,6 +28604,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -61
@@ -27358,6 +29150,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -31
@@ -27781,6 +29601,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1578119113}
     m_Modifications:
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Range
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18259275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_Intensity
+      value: 8017.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376035385422602978, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 4.484404
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790819121031126994, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
+      propertyPath: useVolumetric
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3715788067260500120, guid: 8b9876f423384214ca8bdeda5c9afd2a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -73
