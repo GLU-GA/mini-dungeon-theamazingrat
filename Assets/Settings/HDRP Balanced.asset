@@ -213,11 +213,11 @@ MonoBehaviour:
   m_PrefilterUseLightmapBicubicSampling: 0
   m_RenderPipelineSettings:
     supportShadowMask: 0
-    supportSSR: 1
+    supportSSR: 0
     supportSSRTransparent: 0
     supportSSAO: 1
-    supportSSGI: 1
-    supportSubsurfaceScattering: 1
+    supportSSGI: 0
+    supportSubsurfaceScattering: 0
     subsurfaceScatteringAttenuation: 1
     sssSampleBudget:
       m_Values: 140000002800000050000000
@@ -229,14 +229,14 @@ MonoBehaviour:
         m_Id: With3Levels
     supportVolumetrics: 1
     supportVolumetricClouds: 1
-    supportLightLayers: 1
-    renderingLayerMaskBuffer: 1
+    supportLightLayers: 0
+    renderingLayerMaskBuffer: 0
     supportWater: 1
     waterSimulationResolution: 64
     supportWaterExclusion: 1
     supportWaterHorizontalDeformation: 0
     supportWaterDecals: 1
-    waterDecalAtlasSize: 512
+    waterDecalAtlasSize: 256
     maximumWaterDecalCount: 48
     waterScriptInteractionsMode: 0
     waterFullCPUSimulation: 0
@@ -279,17 +279,17 @@ MonoBehaviour:
     lightProbeSystem: 1
     oldLightProbeSystem: 0
     probeVolumeMemoryBudget: 1024
-    supportProbeVolumeGPUStreaming: 1
+    supportProbeVolumeGPUStreaming: 0
     supportProbeVolumeDiskStreaming: 0
     probeVolumeSHBands: 1
-    supportProbeVolumeScenarios: 1
-    supportProbeVolumeScenarioBlending: 1
+    supportProbeVolumeScenarios: 0
+    supportProbeVolumeScenarioBlending: 0
     probeVolumeBlendingMemoryBudget: 256
-    supportRayTracing: 1
+    supportRayTracing: 0
     supportVFXRayTracing: 0
-    supportedRayTracingMode: 3
+    supportedRayTracingMode: 1
     lightLoopSettings:
-      cookieAtlasSize: 512
+      cookieAtlasSize: 128
       cookieFormat: 74
       cookieAtlasLastValidMip: 0
       cookieTexArraySize: 16
@@ -303,7 +303,7 @@ MonoBehaviour:
       reflectionProbeTexLastValidCubeMip: 3
       reflectionProbeTexLastValidPlanarMip: 0
       reflectionProbeDecreaseResToFit: 1
-      skyReflectionSize: 512
+      skyReflectionSize: 256
       skyLightingOverrideLayerMask:
         serializedVersion: 2
         m_Bits: 0
@@ -316,26 +316,26 @@ MonoBehaviour:
       maxDecalsOnScreen: 512
       maxLightsPerClusterCell: 24
       maxLocalVolumetricFogSize: 32
-      maxLocalVolumetricFogOnScreen: 64
+      maxLocalVolumetricFogOnScreen: 45
     hdShadowInitParams:
       maxShadowRequests: 512
       directionalShadowsDepthBits: 16
-      punctualShadowFilteringQuality: 1
-      directionalShadowFilteringQuality: 1
+      punctualShadowFilteringQuality: 0
+      directionalShadowFilteringQuality: 0
       areaShadowFilteringQuality: 0
       punctualLightShadowAtlas:
-        shadowAtlasResolution: 4096
+        shadowAtlasResolution: 1024
         shadowAtlasDepthBits: 16
         useDynamicViewportRescale: 1
       areaLightShadowAtlas:
         shadowAtlasResolution: 2048
         shadowAtlasDepthBits: 16
         useDynamicViewportRescale: 0
-      cachedPunctualLightShadowAtlas: 2048
+      cachedPunctualLightShadowAtlas: 1024
       cachedAreaLightShadowAtlas: 2048
       allowDirectionalMixedCachedShadows: 0
       shadowResolutionDirectional:
-        m_Values: 00010000000200000004000000080000
+        m_Values: 00010000000200000002000000020000
         m_SchemaId:
           m_Id: With4Levels
       shadowResolutionPunctual:
@@ -354,8 +354,8 @@ MonoBehaviour:
       screenSpaceShadowBufferFormat: 48
     decalSettings:
       drawDistance: 1000
-      atlasWidth: 2048
-      atlasHeight: 2048
+      atlasWidth: 1024
+      atlasHeight: 1024
       transparentTextureResolution:
         m_Values: 000100000002000000040000
         m_SchemaId:
@@ -544,8 +544,8 @@ MonoBehaviour:
     m_ObsoleteSupportRuntimeDebugDisplay: 0
   allowShaderVariantStripping: 1
   enableSRPBatcher: 1
-  availableMaterialQualityLevels: -1
-  m_DefaultMaterialQualityLevel: 4
+  availableMaterialQualityLevels: 2
+  m_DefaultMaterialQualityLevel: 2
   diffusionProfileSettings: {fileID: 0}
   m_VolumeProfile: {fileID: 0}
   virtualTexturingSettings:
