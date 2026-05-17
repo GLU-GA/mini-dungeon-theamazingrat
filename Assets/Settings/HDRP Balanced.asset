@@ -213,7 +213,7 @@ MonoBehaviour:
   m_PrefilterUseLightmapBicubicSampling: 0
   m_RenderPipelineSettings:
     supportShadowMask: 0
-    supportSSR: 0
+    supportSSR: 1
     supportSSRTransparent: 0
     supportSSAO: 1
     supportSSGI: 1
@@ -228,15 +228,15 @@ MonoBehaviour:
       m_SchemaId:
         m_Id: With3Levels
     supportVolumetrics: 1
-    supportVolumetricClouds: 0
-    supportLightLayers: 0
-    renderingLayerMaskBuffer: 0
+    supportVolumetricClouds: 1
+    supportLightLayers: 1
+    renderingLayerMaskBuffer: 1
     supportWater: 1
-    waterSimulationResolution: 128
-    supportWaterExclusion: 0
+    waterSimulationResolution: 64
+    supportWaterExclusion: 1
     supportWaterHorizontalDeformation: 0
     supportWaterDecals: 1
-    waterDecalAtlasSize: 1024
+    waterDecalAtlasSize: 512
     maximumWaterDecalCount: 48
     waterScriptInteractionsMode: 0
     waterFullCPUSimulation: 0
@@ -279,13 +279,13 @@ MonoBehaviour:
     lightProbeSystem: 1
     oldLightProbeSystem: 0
     probeVolumeMemoryBudget: 1024
-    supportProbeVolumeGPUStreaming: 0
+    supportProbeVolumeGPUStreaming: 1
     supportProbeVolumeDiskStreaming: 0
     probeVolumeSHBands: 1
-    supportProbeVolumeScenarios: 0
+    supportProbeVolumeScenarios: 1
     supportProbeVolumeScenarioBlending: 1
-    probeVolumeBlendingMemoryBudget: 128
-    supportRayTracing: 0
+    probeVolumeBlendingMemoryBudget: 256
+    supportRayTracing: 1
     supportVFXRayTracing: 0
     supportedRayTracingMode: 3
     lightLoopSettings:
@@ -299,7 +299,7 @@ MonoBehaviour:
       maxEnvLightsOnScreen: 32
       reflectionCacheCompressed: 1
       reflectionProbeFormat: 74
-      reflectionProbeTexCacheSize: 4096
+      reflectionProbeTexCacheSize: 1024
       reflectionProbeTexLastValidCubeMip: 3
       reflectionProbeTexLastValidPlanarMip: 0
       reflectionProbeDecreaseResToFit: 1
@@ -308,17 +308,17 @@ MonoBehaviour:
         serializedVersion: 2
         m_Bits: 0
       supportFabricConvolution: 0
-      maxDirectionalLightsOnScreen: 16
+      maxDirectionalLightsOnScreen: 32
       maxPunctualLightsOnScreen: 512
-      maxAreaLightsOnScreen: 64
+      maxAreaLightsOnScreen: 128
       maxCubeReflectionOnScreen: 32
       maxPlanarReflectionOnScreen: 16
       maxDecalsOnScreen: 512
-      maxLightsPerClusterCell: 16
+      maxLightsPerClusterCell: 24
       maxLocalVolumetricFogSize: 32
       maxLocalVolumetricFogOnScreen: 64
     hdShadowInitParams:
-      maxShadowRequests: 128
+      maxShadowRequests: 512
       directionalShadowsDepthBits: 16
       punctualShadowFilteringQuality: 1
       directionalShadowFilteringQuality: 1
@@ -349,7 +349,7 @@ MonoBehaviour:
       maxDirectionalShadowMapResolution: 2048
       maxPunctualShadowMapResolution: 2048
       maxAreaShadowMapResolution: 2048
-      supportScreenSpaceShadows: 0
+      supportScreenSpaceShadows: 1
       maxScreenSpaceShadowSlots: 4
       screenSpaceShadowBufferFormat: 48
     decalSettings:
