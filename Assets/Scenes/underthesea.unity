@@ -1326,6 +1326,10 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.z
       value: 237459250
       objectReference: {fileID: 0}
+    - target: {fileID: 8902773444813726627, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e12f4e04845c7824f9b6cb2ddd2f7205, type: 2}
     - target: {fileID: 8970025120356894860, guid: 716b1f4be3467f44887024bf856982ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -12167,7 +12171,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 735802462}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d8f6fd535518f5540b4bcc3099582f77, type: 3}
   m_Name: 
