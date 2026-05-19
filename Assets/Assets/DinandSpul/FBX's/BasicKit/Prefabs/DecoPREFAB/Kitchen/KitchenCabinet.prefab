@@ -48,6 +48,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6c952b96d7bfcd34b91b99fc7fb67f39, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6fcb3607b733e8d4aa967bc604e628b9, type: 2}
     - target: {fileID: 919132149155446097, guid: 6c952b96d7bfcd34b91b99fc7fb67f39, type: 3}
       propertyPath: m_Name
       value: KitchenCabinet
