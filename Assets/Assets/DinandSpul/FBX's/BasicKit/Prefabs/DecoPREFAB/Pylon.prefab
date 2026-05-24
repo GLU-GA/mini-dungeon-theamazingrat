@@ -51,7 +51,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: c3edd13aedafa5e4d82b90cf88b4086c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9a4c13f30f7c4a243b58c6ae09796d98, type: 2}
+      objectReference: {fileID: 2100000, guid: e2236f6c5859f6143a2179363f6b8bd9, type: 2}
     - target: {fileID: 919132149155446097, guid: c3edd13aedafa5e4d82b90cf88b4086c, type: 3}
       propertyPath: m_Name
       value: Pylon
