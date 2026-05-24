@@ -689,8 +689,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4454750358887519127, guid: 8f1c95940163e0a4681a339373495fdd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2196957852051667728}
   m_SourcePrefab: {fileID: 100100000, guid: 8f1c95940163e0a4681a339373495fdd, type: 3}
+--- !u!1 &3835466874808295630 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4454750358887519127, guid: 8f1c95940163e0a4681a339373495fdd, type: 3}
+  m_PrefabInstance: {fileID: 641801516984906585}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2196957852051667728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3835466874808295630}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f564af13e8110d4291352c9a2053b4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LightFlickerHDRP
+  minIntensity: 2
+  maxIntensity: 100
+  flickerSpeed: 0.05
+  emissiveRenderer: {fileID: 0}
+  emissionProperty: _EmissiveColor
+  emissionMultiplier: 10
 --- !u!4 &4497239818298852476 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3927496069298206501, guid: 8f1c95940163e0a4681a339373495fdd, type: 3}
@@ -981,8 +1007,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4454750358887519127, guid: 8f1c95940163e0a4681a339373495fdd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4305828160307005314}
   m_SourcePrefab: {fileID: 100100000, guid: 8f1c95940163e0a4681a339373495fdd, type: 3}
+--- !u!1 &5821513080326809481 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4454750358887519127, guid: 8f1c95940163e0a4681a339373495fdd, type: 3}
+  m_PrefabInstance: {fileID: 7861130546156647454}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4305828160307005314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5821513080326809481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f564af13e8110d4291352c9a2053b4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LightFlickerHDRP
+  minIntensity: 2
+  maxIntensity: 100
+  flickerSpeed: 0.05
+  emissiveRenderer: {fileID: 0}
+  emissionProperty: _EmissiveColor
+  emissionMultiplier: 10
 --- !u!4 &6600337829482496827 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3927496069298206501, guid: 8f1c95940163e0a4681a339373495fdd, type: 3}
